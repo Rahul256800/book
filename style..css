@@ -1,0 +1,29 @@
+/* style.css */
+
+/* Apply styles to the book, author, and year divs */
+body{
+    background-color:blueviolet;
+}
+
+.book,
+.author,
+.year {
+    margin-bottom: 15px;
+    color: antiquewhite;
+}
+
+/* Apply styles to the input fields */
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+label{
+    color: white;
+    font-size: 30px;
+    font-family: serif;
+}
+/* Apply styles to the button */
+
